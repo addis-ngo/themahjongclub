@@ -91,7 +91,7 @@ export const TEAM_MEMBERS: TeamMember[] = [
     id: 1,
     name: "Addis Ngo",
     role: "President",
-    about: "Founded the club to share the joy of Mahjong. Favorite hand: Thirteen Orphans.",
+    about: "Hi guys, my name is Addis. I'm a sophomore in computer science at GMU. aside from Mahjong, I enjoy listening to music, baking, and playing Brawl Stars (Road to 100k!) I look forward to meeting y'all!",
     // CHANGE THIS after dragging your photo to public/images/
     // image: "images/addis.jpg"
     image: "images/addis.jpg"
