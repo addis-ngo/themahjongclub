@@ -80,10 +80,10 @@ export const IDENTITY_CARDS: IdentityCard[] = [
 // General site images
 export const IMAGES = {
   // Replace with "images/logo.png"
-  logo: "logo.png",
+  logo: "images/logo.png",
   
   // Replace with "images/about.jpg"
-  aboutSection: "about.jpg"
+  aboutSection: "images/about.jpg"
 };
 
 export const TEAM_MEMBERS: TeamMember[] = [
@@ -94,7 +94,7 @@ export const TEAM_MEMBERS: TeamMember[] = [
     about: "Founded the club to share the joy of Mahjong. Favorite hand: Thirteen Orphans.",
     // CHANGE THIS after dragging your photo to public/images/
     // image: "images/addis.jpg"
-    image: "addis.jpg"
+    image: "images/addis.jpg"
   },
   {
     id: 2,
@@ -108,7 +108,7 @@ export const TEAM_MEMBERS: TeamMember[] = [
     name: "Alan Kershteyn",
     role: "Secretary",
     about: "tbd",
-    image: "alan.jpg"
+    image: "images/alan.jpg"
   },
   {
     id: 4,
