@@ -50,7 +50,7 @@ export const IDENTITY_CARDS: IdentityCard[] = [
   },
   {
     id: 'learn',
-    title: 'Larn Chinese',
+    title: 'Learn Chinese',
     description: "Learn new characters and build a foundation in Chinese through mahjong, as the game regularly exposes players to commonly used symbols and terminology. Repeated play reinforces recognition and understanding, making learning Chinese feel natural and engaging.",
     color: 'bg-mahjongGold'
   },
