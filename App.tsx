@@ -87,7 +87,7 @@ const App: React.FC = () => {
                 What is <span className="text-mahjongRed">Mahjong</span> <span className="text-mahjongBlack dark:text-white">Club?</span>
              </h2>
              <p className="mt-6 text-lg text-mahjongBlack/60 dark:text-offWhite/60 max-w-2xl mx-auto">
-               The club is what you make of it. Which one are you? Click to explore.
+               The club is what you make of it. See what we have to offer!
              </p>
            </div>
            
@@ -198,8 +198,8 @@ const App: React.FC = () => {
 
       {/* Footer-like bottom area */}
       <div className="py-12 border-t border-mahjongBlack/10 dark:border-white/10 text-center text-mahjongBlack/30 dark:text-offWhite/30 text-sm relative z-10 transition-colors duration-300">
-        <p>&copy; {new Date().getFullYear()} College Mahjong Club. All rights reserved.</p>
-        <p className="mt-2 mb-6">Designed with 🀄</p>
+        <p>&copy; {new Date().getFullYear()} The Mahjong Club. All rights reserved.</p>
+        <p className="mt-2 mb-6">Designed by Addis</p>
         
         <button 
           onClick={toggleTheme}
