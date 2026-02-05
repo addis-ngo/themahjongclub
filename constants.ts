@@ -101,7 +101,7 @@ export const TEAM_MEMBERS: TeamMember[] = [
     name: "Albert Wong",
     role: "Vice President",
     about: "Hey everyone, my name is Albert, and I’m a sophomore majoring in financial planning and wealth management. I enjoy playing Mahjong with friends and look forward to more people joining since it takes at least four to start a game.",
-    image: "https://placehold.co/400x400/222222/FFFFFF?text=Albert"
+    image: "images/albert.jpg"
   },
   {
     id: 3,
